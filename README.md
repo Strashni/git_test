@@ -1,0 +1,1 @@
+This is Strashni's 1st git project!
